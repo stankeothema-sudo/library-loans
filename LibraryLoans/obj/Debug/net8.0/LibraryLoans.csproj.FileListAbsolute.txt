@@ -1,0 +1,45 @@
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.exe
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.deps.json
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.runtimeconfig.json
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.dll
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.pdb
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.AssemblyInfoInputs.cache
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.AssemblyInfo.cs
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.dll
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\refint\LibraryLoans.dll
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.pdb
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.genruntimeconfig.cache
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\ref\LibraryLoans.dll
+C:\Users\User\Documents\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryL.BF87764C.Up2Date
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.exe
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.deps.json
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.runtimeconfig.json
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.dll
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.pdb
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.AssemblyInfo.cs
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.dll
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\refint\LibraryLoans.dll
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.pdb
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.genruntimeconfig.cache
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\ref\LibraryLoans.dll
+C:\Users\User\Documents\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryL.BF87764C.Up2Date
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.exe
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.deps.json
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.runtimeconfig.json
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\bin\Debug\net8.0\LibraryLoans.pdb
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.AssemblyInfoInputs.cache
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.AssemblyInfo.cs
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\refint\LibraryLoans.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.pdb
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryLoans.genruntimeconfig.cache
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\ref\LibraryLoans.dll
+C:\Users\User\Documents\2026\Stanford Keorapetse Thema PM11\AutoCareLibrary\AutoCareLibrary\LibraryLoans\obj\Debug\net8.0\LibraryL.BF87764C.Up2Date
